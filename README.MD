@@ -1,6 +1,5 @@
 ---THIS WAS A QUICK AND DIRTY SUBMISSION FOR A TECHNICAL ASSESSMENT IN NODEJS---
-- It wasn't the best code, because it was an automated email telling me to complete this and if I did a "good" enough, I might get to talk to a human. I think its understandable, I wasn't super motivated to do an amazing job.
--- This code I may use later for a API, and improve readiblity, function, speed, simplicity etc.
+- It wasn't the best code, because it was an automated email telling me to complete this and if I did a "good" enough, I might get to talk to a human. I think its understandable, I wasn't super motivated to do an amazing job. This code I may use later for a API, and improve readiblity, function, speed, simplicity etc.
 
 -- ALSO Note, the fetch function has been removed, because I don't want people accidently pinging this ..... assessment "company" API.. Instead dummy data has been placed. To emulate how the APi functioned (with obviously greater speed)
 
