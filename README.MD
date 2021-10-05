@@ -1,7 +1,7 @@
 ---THIS WAS A QUICK AND DIRTY SUBMISSION FOR A TECHNICAL ASSESSMENT IN NODEJS---
-- It wasn't the best code, because it was an automated email telling me to complete this and if I did a "good" enough, I might get to talk to a human. I think its understandable, I wasn't super motivated to do an amazing job. This code I may use later for an API / repurposes it, and improve readiblity, functionality, speed, simplicity etc.
+- It wasn't the best code, simply because they prioritized functionality over all else. I also felt a bit, jipped. Because it was an automated email telling me to do this, and I didn't actually get to talk to a human person. I did get a response from an engineer saying I passed all tests and criteria with flying colours. But need one of the points, I think efficency. (Because I didn't add a cache) Pushed it under the "excellent" criteria. Which disqualified me from getting to talk to a  human. So I was a little bumbed, so instead of this being a complete waste I've added it here for future possible use/ May update it with better code.
 
-- ALSO Note, the fetch function has been removed, because I don't want people accidently pinging this ..... assessment "company" API.. Instead dummy data has been placed. To emulate how the API functioned (with obviously greater speed)
+- ALSO Note, the fetch function has been removed, because I don't want people accidently pinging this assessment "company" API.. Instead dummy data has been placed. To emulate how the API functioned (with obviously greater speed)
 
 API Function: 
 - Retreve, organize, sort, based on Tag(s) submitted. With optional values of sortby and direction
@@ -10,7 +10,7 @@ API Function:
 Required software to run:
 * NodeJS, node-fetch, express
 * Version node >= 16 *
-* Version node-fetch >= 3.0 * -- Older verisions of node may work, but node-fetch may not support certain versions.
+* Version node-fetch >= 3.0 * -- Older verisions of node and node-fetch may support work fine with this code. I updated to node 16, to solve a problem I was facing with node-fetch
 
 Howto install packages and run:
 * npm install express node-fetch
