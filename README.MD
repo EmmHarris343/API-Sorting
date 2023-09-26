@@ -1,7 +1,4 @@
----THIS WAS A QUICK AND DIRTY SUBMISSION FOR A TECHNICAL ASSESSMENT IN NODEJS---
-- It wasn't the best code, simply because they prioritized functionality over all else. I also felt a bit, jipped. Because it was an automated email telling me to do this, and I didn't actually get to talk to a human person. I did get a response from an engineer saying I passed all tests and criteria with flying colours. But need one of the points, I think efficency. (Because I didn't add a cache) Pushed it under the "excellent" criteria. Which disqualified me from getting to talk to a  human. So I was a little bumbed, so instead of this being a complete waste I've added it here for future possible use/ May update it with better code.
-
-- ALSO Note, the fetch function has been removed, because I don't want people accidently pinging this assessment "company" API.. Instead dummy data has been placed. To emulate how the API functioned (with obviously greater speed)
+This is ... really not great code. It's mostly just thrown together as a proof of concenpt for an example on one would do this. 
 
 API Function: 
 - Retreve, organize, sort, based on Tag(s) submitted. With optional values of sortby and direction
